@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  NavController_master
+//
+//  Created by YiTie on 16/3/21.
+//  Copyright © 2016年 武文杰. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "Commen.h"
+
+
+
+
+
+#endif /* PrefixHeader_pch */
